@@ -2,7 +2,7 @@
 Easy Storage system with account and password control.
 
 ## How to use?
-Note: Remember to change S3 bucket name.
+### Note: Remember to change S3 bucket name.
 
 ### Create User
 ```
