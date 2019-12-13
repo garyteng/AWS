@@ -3,12 +3,12 @@ Deploy Nginx server on AWS by using Terraform
 
 ## How to use?
 
-### Prepare to deploy
+### Initialize the working directory containing Terraform configuration files
 ```
-terraform plan
+terraform init
 ```
 
-### Start to deploy resource
+### Start to update/create resource
 ```
 terraform apply
 ```
